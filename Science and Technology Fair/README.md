@@ -6,7 +6,11 @@
 * Srilatha P
 * Prasad T
 
-![Screenshot](.sureshgurugubilli4/RGUKT-University/Science and Technology Fair/Redtacton.jpeg)
+![Screenshot](./Science and Technology Fair/Redtacton.jpeg)
+
+![My image](./RGUKT-University/Science and Technology Fair/Redtacton.jpeg)
+
+[My image](https://github.com/sureshgurugubilli4/RGUKT-University/blob/f1dc19143512d9d856631d1dc4031b29bffaf51a/Science%20and%20Technology%20Fair/Redtacton.jpeg)
 
 #### Synopsis ####
 RedTacton is a new networking technology which is under development, also called Human Area Networking (HAN). It’s  a Japanese technology ,first proposed by NTT (Nippon Telegraph and Telephone) in 2005. It is totally different from other networks like LAN and WAN, uses weak electric field present on human body as the medium to transmit digital data over few centimetres. Data can be transferred just by placing your one hand on transmitter chip (redtacton Transceiver chip) and other on receiver. So far, half duplex communication is implemented using PC type and hub Type protocols at a rate of 10Mbps however this technology supports full duplex communication also.
